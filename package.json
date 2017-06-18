@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "foward": "lt --port 3000 --subdomain noahsmessengerbot",
+    "forward": "lt --port 3000 --subdomain charcodeizard",
     "start": "node index.js"
   },
-  "author": "Noah Vaillancourt",
+  "author": "Jo Imlay",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
