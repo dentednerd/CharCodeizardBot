@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-  res.send('CharCodeizard like wuuut');
+  res.send('Talk to CharCodeizard at https://m.me/CharCodeizard');
 });
 
 app.get('/webhook/', function (req, res) {
